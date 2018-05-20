@@ -23,7 +23,7 @@
     "hapi": "^8.2.0",
     "hapi-auth-basic": "^3.0.0",
     "hapi-auth-cookie": "^3.0.1",
-    "hoek": "^2.11.0",
+    "hoek": "~4.2.1",
     "jade": "^1.9.2",
     "joi": "^6.6.1",
     "keymirror": "^0.1.1",
@@ -42,6 +42,5 @@
     "tracer": "^0.7.3",
     "winston": "^1.0.1"
   },
-  "devDependencies": {
-  }
+  "devDependencies": {}
 }
